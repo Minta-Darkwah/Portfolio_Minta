@@ -31,7 +31,11 @@
 </main>
 
 <style>
-    
+    :global(body)
+    {
+        background: linear-gradient(90deg, #023E8A, #CAF0F8);
+        
+    }
 
     /*per il nome*/
     #nome
