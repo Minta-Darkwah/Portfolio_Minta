@@ -20,7 +20,7 @@
     <Social/>
 
     <div id="pulsante">
-        <a href=//home/minta/Portfolio_pubblicato/Portfolio_Minta/src/routes/pag_1945>
+        <a href=//home/minta/Portfolio_pubblicato/Portfolio_Minta/src/routes/pag_1945/+page.svelte>
             <div id="sin">AVANTI</div>
             <span class="material-symbols-outlined">navigate_next</span>
         </a>
