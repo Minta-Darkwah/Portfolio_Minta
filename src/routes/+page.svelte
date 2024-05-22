@@ -1,7 +1,6 @@
 <script>
     
     import Presentazione from "../lib/components/presentazione.svelte";
-    import Pulsante from "../lib/components/pulsante.svelte";
     import Social from "../lib/components/social.svelte";
     
 </script>
@@ -20,7 +19,13 @@
 
     <Social/>
 
-    <Pulsante src="./pag_1945" nome="AVANTI"/>
+    <div id="pulsante">
+        <a href="./pag_1945">
+            <div id="sin">AVANTI</div>
+            <span class="material-symbols-outlined">navigate_next</span>
+        </a>
+        
+    </div>
     
 </main>
 
