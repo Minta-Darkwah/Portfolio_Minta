@@ -13,32 +13,32 @@
         </a>
     </div>
     <div class="bot">
-        <a href="/pag_2020">
+        <a href="./pag_2020">
             2020
         </a>
     </div>
     <div class="bot">
-        <a href="/pag_mafia">
+        <a href="./pag_mafia">
             MAFIA
         </a>
     </div>
     <div class="bot">
-        <a href="/pag_borsellino">
+        <a href="./pag_borsellino">
             Borsellino
         </a>
     </div>
     <div class="bot">
-        <a href="/pag_penadimorte">
+        <a href="./pag_penadimorte">
             Pena di morte
         </a>
     </div>
     <div class="bot">
-        <a href="/pag_femminismo">
+        <a href="./pag_femminismo">
             Femminismo
         </a>
     </div>
     <div class="bot">
-        <a href="/pag_dittature">
+        <a href="./pag_dittature">
             Dittature
         </a>
     </div>
