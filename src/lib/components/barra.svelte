@@ -3,7 +3,7 @@
 
 <div id="nav_b">
     <div class="bot">
-        <a href="/pag_iniz">
+        <a href="./pag_iniz">
             <span class="material-symbols-outlined">home</span>
         </a>
     </div>
