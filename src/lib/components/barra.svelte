@@ -8,7 +8,7 @@
         </a>
     </div>
     <div class="bot">
-        <a href="/pag_1945">
+        <a href="./pag_1945">
             1945
         </a>
     </div>
