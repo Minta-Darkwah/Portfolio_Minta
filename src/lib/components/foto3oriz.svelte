@@ -63,6 +63,9 @@
         height: 15%;
         font-size: clamp(1.5rem, 1.7vw, 2rem);
 
+        display: flex;
+        align-items: center;
+
         padding-left: 2%;
         padding-right: 2%;
         border: 1px solid green;

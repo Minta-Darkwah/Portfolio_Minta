@@ -45,6 +45,10 @@
         height: 40%;
         font-size: clamp(1.5rem, 3vw, 4rem);
 
+        display: flex;
+        align-items: center;
+
+
         padding-left: 2%;
         border: 1px solid green;
     }

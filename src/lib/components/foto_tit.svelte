@@ -55,6 +55,13 @@
         height: 25%;
         font-size: 2.5rem;
         text-align: center;
+
+        display: flex;
+        align-items: center;
+
+        padding-left: 2%;
+        padding-right: 2%;
+
         border: 1px solid green;
     }
     #min_tit

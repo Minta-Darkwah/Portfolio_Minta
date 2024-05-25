@@ -78,6 +78,9 @@
         height: 50%;
         font-size: 1.3rem;
 
+        display: flex;
+        align-items: center;
+
         padding-left: 2%;
         padding-right: 2%;
 
