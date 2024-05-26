@@ -13,11 +13,13 @@
         width: 50%;
         height: 22rem;
         margin: auto;
-        border: 2px solid lightseagreen;
+        border: 2px solid #778DA9;
     }
     img
     {
         width: 100%;
         height: 100%;
+
+        object-fit: cover;
     }
 </style>

@@ -41,16 +41,25 @@
     .des6
     {
         width: 63%;
+
+        border-radius: 0.5rem;
+        overflow: hidden;
         border: 1px solid green;
     }
     /*parte sinistra con 2 foto*/
     .sopra6
     {
         height: 47%;
+
+        border-radius: 0.5rem;
+        overflow: hidden;
         border: 1px solid green;
     }
     .sotto6
     {   height: 47%;
+
+        border-radius: 0.5rem;
+        overflow: hidden;
         border: 1px solid green;
     }
 
@@ -59,5 +68,8 @@
     {
         width: 100%;
         height: 100%;
+
+        object-fit: cover;
+        
     }
 </style>

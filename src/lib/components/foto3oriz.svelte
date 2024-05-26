@@ -49,6 +49,9 @@
         display: flex;
         flex-direction: column;
 
+        border-radius: 0.6rem;
+        overflow: hidden;
+
         width: 32%;
         border: 1px solid green;
     }
@@ -66,14 +69,18 @@
         display: flex;
         align-items: center;
 
+        background-color: #1B263B;
+
         padding-left: 2%;
         padding-right: 2%;
-        border: 1px solid green;
+        border: 2px solid gray;
     }
     .par4
     {
         height: 30%;
         font-size: 1.2rem;
+
+        background-color: #E0E1DD;
 
         padding-left: 2%;
         padding-right: 2%;
@@ -86,5 +93,7 @@
     {
         height: 100%;
         width: 100%;
+
+        object-fit: cover;
     }
 </style>

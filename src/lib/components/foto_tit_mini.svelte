@@ -14,6 +14,8 @@
 </div>
 
 <style>
+   
+    
     /*riquadri del 1960 e del 1970*/
     .tutto3
     {
@@ -22,6 +24,9 @@
 
         display: flex;
         margin-bottom: 3rem;
+
+        border-radius: 0.6rem;
+        overflow: hidden;
 
         border: 1px solid green;
     }
@@ -48,15 +53,19 @@
         display: flex;
         align-items: center;
 
+        background-color: #1B263B;
+        border-radius: 0rem 0.4rem 0rem 0rem;
 
         padding-left: 2%;
-        border: 1px solid green;
+        border: 2px solid grey;
     }
     .par3
     {
         height: 60%;
         font-size: 1.5rem;
 
+        background-color: #E0E1DD;
+        
         padding-left: 2%;
         padding-right: 2%;
         text-align: justify;

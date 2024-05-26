@@ -49,6 +49,9 @@
         display: flex;
         flex-direction: column;
 
+        border-radius: 0.6rem;
+        overflow: hidden;
+
         width: 100%;
         border: 1px solid green;
     }
@@ -66,13 +69,22 @@
         padding-left: 2%;
         padding-right: 2%;
 
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        background-color: #415A77;
+
         text-align: justify;
-        border: 1px solid green;
+        border: 2px solid gray;
     }
 
     img
     {
         width: 100%;
         height: 100%;
+
+        object-fit: cover;
     }
 </style>

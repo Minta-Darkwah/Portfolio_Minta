@@ -48,12 +48,20 @@
     {
         width: 50%;
         font-size: 1.5rem;
+
+        border-radius: 0.6rem;
+        overflow: hidden;
+
         border: 1px solid green;
     }
     #par_des
     {
         width: 50%;
         font-size: 1.5rem;
+
+        border-radius: 0.6rem;
+        overflow: hidden;
+        
         border: 1px solid green;
     }
     /*parte sinistra*/
@@ -65,6 +73,9 @@
     #tit2_s
     {
         height: 10%;
+
+        background-color: #0D1B2A;
+        color: #E0E1DD;
 
         padding-left: 2%;
         padding-right: 2%;
@@ -90,6 +101,9 @@
     #tit2_d
     {
         height: 10%;
+
+        background-color: #0D1B2A;
+        color: #E0E1DD;
 
         padding-left: 2%;
         padding-right: 2%;

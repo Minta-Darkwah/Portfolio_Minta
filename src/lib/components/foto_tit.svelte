@@ -27,12 +27,18 @@
 
 
 <style>
+    *, *::before, *::after {
+        box-sizing: border-box;
+    }
+
     #tutto
     {
         width: 100%;
-        height: 22rem;
+        height: 22rem; 
 
         margin-bottom: 6rem;
+        border-radius: 0.6rem;
+        overflow: hidden;
 
         display: flex;
         flex-direction: row;
@@ -59,6 +65,9 @@
         display: flex;
         align-items: center;
 
+        background-color: #0D1B2A;
+        color: #E0E1DD;
+
         padding-left: 2%;
         padding-right: 2%;
 
@@ -68,6 +77,10 @@
     {
         height: 15%;
         font-size: 1.7rem;
+        display: flex;
+        align-items: center;
+
+        background-color: #778DA9;
 
         padding-left: 2%;
         border: 1px solid green;
@@ -80,7 +93,9 @@
         padding-right: 2%;
         text-align: justify;
 
-        font-size: clamp(1.1rem, 1.2rem, 1.3rem);
+        font-size: clamp(1.3rem, 1.3rem, 1.5rem);
+        /* font-size: 1.2rem;*/
+        
         border: 1px solid green;
     }
     img
