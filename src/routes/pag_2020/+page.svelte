@@ -104,7 +104,7 @@
         <iframe title="news" width="100%" height="100%" src="https://www.youtube.com/embed/S7u2oORy0L0" frameborder="0" allowfullscreen></iframe>
     </div>
     
-    <Pulsante src="/pag_mafia" nome="AVANTI"/>
+    <Pulsante src="./pag_mafia" nome="AVANTI"/>
 </div>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">

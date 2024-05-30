@@ -71,7 +71,7 @@
 
 
     <FotoTitMini url={foto[3]} tit1={tit[3]} testo1={did[3]}/>
-    <Pulsante nome="AVANTI" src="/pag_penadimorte"/>
+    <Pulsante nome="AVANTI" src="./pag_penadimorte"/>
 </div>
 
 

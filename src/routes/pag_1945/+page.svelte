@@ -136,7 +136,7 @@
 
     <Foto3 url1={foto[17]} url2={foto[18]} url3={foto[19]}/>
 
-    <Pulsante src="/pag_2020" nome="AVANTI"/>
+    <Pulsante src="./pag_2020" nome="AVANTI"/>
 </div>
 
 

@@ -70,7 +70,7 @@
     <Spaziatore testo={tit[4]}/>
     <Paragrafo testo={did[2]}/>
     
-    <Pulsante nome="AVANTI" src="/pag_borsellino"/>
+    <Pulsante nome="AVANTI" src="./pag_borsellino"/>
 
 </div>
 

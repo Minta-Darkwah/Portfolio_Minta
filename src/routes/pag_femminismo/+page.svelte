@@ -86,7 +86,7 @@
     <Spaziatore testo={tit[6]}/>
     <FotoTit url={foto[3]}  titolo={tit[6]} min_titolo={tit[7]} testo2={did[8]}/>
 
-    <Pulsante src="/pag_dittature" nome="AVANTI"/>
+    <Pulsante src="./pag_dittature" nome="AVANTI"/>
 </div>
 
 
