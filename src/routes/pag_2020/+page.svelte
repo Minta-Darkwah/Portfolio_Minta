@@ -19,8 +19,8 @@
         "https://img.yumpu.com/25967294/1/500x640/regolamento-sanitario-internazionale-2005-ministero-della-salute.jpg",
         "https://staticfanpage.akamaized.net/wp-content/uploads/sites/34/2024/01/H1N1_influenza_virus-1704894614025-1200x675.jpg",
         "https://cdn.britannica.com/07/160507-050-FF60C61F/Electron-micrograph-ebolavirus-virion.jpg",
-        "https://www.topdoctors.it/files/Image/large/f37dcd8357e0695c3324b6be2d287b96.png",
-        "https://www.ilernaonline.it/ilblog/wp-content/uploads/2020/12/Dise%C3%B1o-sin-t%C3%ADtulo-2020-12-10T104838.947.png",
+        "https://www.scienzainrete.it/files/styles/molto_grande/public/coronavirus-4972480_1920.jpg?itok=0e2lccD7",
+        "https://www.insubriamedica.it/wp-content/uploads/2021/12/insubria-radiografie-a-domicilio.jpg",
         "https://www.osservatoriomalattierare.it/images/tampone-per-coronavirus.jpg",
         "https://www.fondazioneveronesi.it/uploads/thumbs/2021/10/20/sierologico_thumb_720_480.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/HIV_Epidem.png/800px-HIV_Epidem.png",
@@ -64,7 +64,7 @@
         "Tutto questo è partito dalla Cina, ma in particolare a Wuhan e scoperto da Li Wenliang  il medico scopritore dell'esistenza del covid-19 di cui l'inizio si pensava fosse una 'bufala'.",
         "Così tanti morti che è necessario che i camion militari li prelevino e li trasportino per seporli ",
         "(sui polmoni)",
-        "(nel suolo)",
+        "(nel naso)",
         "(nel sangue)",
         "Il virus si espande attraverso:",
         "Il Coronavirus conosciuto anche come covid-19 in grado di avere effetti simili a un raffreddore e problemi di respirazione può anche portare alla morte per persone anziane e per chi è affetto da gravi malattie o patologie.",
@@ -107,12 +107,16 @@
     <Pulsante src="/pag_mafia" nome="AVANTI"/>
 </div>
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+
 
 <style>
     #tutto
     {   width: 60%;
         margin: auto;
-        background-color: white;
+        background-color: #415A77;
         
         padding: 0rem 4rem 0rem 4rem;
         
@@ -125,11 +129,16 @@
         margin-bottom: 3rem;
 
         margin-top: 4rem;
+        color: #E0E1DD;
         
+        
+        font-family: "Abril Fatface", serif;
+        font-weight: 400;
+        font-style: normal;
 
         
         font-size: 8rem;
-        border: 1px solid blue;
+        border: 1px solid #E0E1DD;
     }
     
     /*video*/

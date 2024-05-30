@@ -38,12 +38,17 @@
         "In questi campi venivano fatti esperimenti sugli umani di ogni tipo. Nell'Unità 100 invece provavano a trasferire le malattie degli animali sugli umani. Poi il Giappone fa un patto con l'America: avrebbe avuto l'immunità sugli atti atroci commessi in cambio delle ricerche ottenute dagli esperimenti.",
         "Nei gulag venivano internati tutti coloro che erano contrari alla dittatura: politici, kulaki, vechhi zaristi e ortodossi. In quel periodo anche Sogenizzi, insegnante, trasferito a Lipgiancia e portato da un lager ad un altro. Che nel 1970 riceve un premio Nobel per la Pace.",
         "Nei Gulag si mangiava un pezzo di pane e zuppa (brodaglia di carne decomposta e avariata). Collocati al sud della Russia, e costretti a dare il massimo.",
-        "In molti sono sicuri che la salita al potere di Hitler sia dovuto esclusivamente dalla confusione ed elevata sofferenza della Germania per colpa del crollo del muro di Wall Street, e che se non fosse successo non sarebbe mai riuscita ad avere il comando. Invece Mussolini in Italia a differenza di Hitler fu un totalitarismo atipico: il potere gli è stato dato al re Vittorio Emanuele.",
+        "In molti sono sicuri che la salita al potere di Hitler sia dovuto esclusivamente dalla confusione ed elevata sofferenza della Germania per colpa del crollo del muro di Wall Street, e che se non fosse successo non sarebbe mai riuscita ad avere il comando. Invece Mussolini in Italia a differenza di Hitler fu un totalitarismo atipico: il potere gli è stato dato al re Vittorio Emanuele II.",
         "Hitler sapeva bene come parlare. Convinse tutti i tedeschi che gli ebrei erano ben collocati ed in buone posizioni economiche, posizioni secondo Hitler rubate ai cittadini tedeschi.",
         "",
         "",
     ]
 </script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+
 
 <div id="tutto">
 
@@ -73,7 +78,7 @@
     #tutto
     {   width: 60%;
         margin: auto;
-        background-color: white;
+        background-color: #415A77;
         
         padding: 0rem 4rem 0rem 4rem;
         
@@ -86,10 +91,15 @@
         margin-bottom: 3rem;
 
         margin-top: 4rem;
+        color: #E0E1DD;
         
+        
+        font-family: "Abril Fatface", serif;
+        font-weight: 400;
+        font-style: normal;
 
         
         font-size: 8rem;
-        border: 1px solid blue;
+        border: 1px solid #E0E1DD;
     }
 </style>

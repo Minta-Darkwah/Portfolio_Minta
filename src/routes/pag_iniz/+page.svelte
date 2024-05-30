@@ -31,11 +31,7 @@
 </main>
 
 <style>
-    :global(body)
-    {
-        background: linear-gradient(90deg, #023E8A, #CAF0F8);
-        
-    }
+
 
     /*per il nome*/
     #nome
@@ -83,17 +79,20 @@
 
         border-radius: 0.2rem;
 
-        background-color: #0089d3;
+        background-color: #0D1B2A;
         color: #CAF0F8;
 
         position: relative;
         top: 8.4rem;
         left: 30rem;
 
-
+        border: 2px solid #E0E1DD;
     }
     a
     {
+        width: 100%;
+        height: 100%;
+        
         display: flex;
         flex-direction: row;
         justify-content: center;
@@ -105,12 +104,13 @@
     }
     a:hover
     {
-        color: #0089d3;
+        color: #0D1B2A;
     }
     #pulsante:hover
     {
-        background-color: #CAF0F8;
-        color: #0089d3;
+        background-color: #E0E1DD;
+        color: #0D1B2A;
+        border: 2px solid #0D1B2A;
     }
     span
     {

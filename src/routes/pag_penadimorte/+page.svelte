@@ -47,6 +47,11 @@
     ]
 </script>
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+
+
 <div id="tutto">
     <SWatcher/>
     <Barra/>
@@ -74,7 +79,7 @@
     #tutto
     {   width: 60%;
         margin: auto;
-        background-color: white;
+        background-color: #415A77;
         
         padding: 0rem 4rem 0rem 4rem;
         
@@ -87,10 +92,15 @@
         margin-bottom: 3rem;
 
         margin-top: 4rem;
+        color: #E0E1DD;
         
+        
+        font-family: "Abril Fatface", serif;
+        font-weight: 400;
+        font-style: normal;
 
         
         font-size: 8rem;
-        border: 1px solid blue;
+        border: 1px solid #E0E1DD;
     }
 </style>

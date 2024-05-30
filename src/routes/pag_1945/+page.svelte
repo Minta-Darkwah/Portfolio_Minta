@@ -32,7 +32,7 @@
         "https://www.termometropolitico.it/newmedia/2018/06/legge-bossi-fini.jpg",
         "https://www.simmweb.it/archivio-sito/static/pics/2-bandiera.jpg",
         "https://www.meltingpot.org/app/uploads/2009/07/arton14674.gif",
-        "https://www1.interno.gov.it/mininterno/export/sites/default/it/assets/images/21/0632_consiglio_napoli.png",
+        "https://images.collettiva.it/view/acePublic/alias/contentid/NWZhMzdkZTEtZjc1YS00/1/2379720_132912468-8fa73d47-9e2c-42c6-b65c-028bfa7dca0f-jpg.jpeg?f=3%3A2",
         "https://www.repstatic.it/content/localirep/img/rep/2018/09/25/132106528-87dbf1a5-2b67-4d92-8287-653ededb9638.jpg",
         "https://images.ildubbio.news/version/c:NjVlYTUxZjMtMDU0ZS00:ZjMtMDU0ZS00MWRjYTMy/175241364-27870c16-ddf3-4b3f-9e7d-3f39f4886b81.webp?f=3%3A2&q=0.75&w=3840",
         "https://portaleimmigrazione.eu/wp-content/uploads/2018/08/pacchetto-sicurezza-2018.jpg",
@@ -97,6 +97,9 @@
 
 </script>
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
 
 <div id="tutto">
 
@@ -115,7 +118,8 @@
     <FotoTitMini url={foto[3]} tit1="1960" testo1={did[2]}/>
     <FotoTitMini url={foto[4]} tit1="1970" testo1={did[3]}/>
 
-    <Divisore testo1={tit[6]} testo2={tit[7]}/>
+    <Divisore testo1={tit[6]} />
+    <Divisore testo1={tit[7]} />
 
     <Foto3oriz url1={foto[5]} titolo1={tit[8]} testo1={did[4]} url2={foto[6]} titolo2={tit[9]} testo2={did[5]} url3={foto[7]} titolo3={tit[10]} testo3={did[6]}/>
 
@@ -143,7 +147,7 @@
     #tutto
     {   width: 60%;
         margin: auto;
-        background-color: white;
+        background-color: #415A77;
         
         padding: 0rem 4rem 0rem 4rem;
         
@@ -156,11 +160,16 @@
         margin-bottom: 3rem;
 
         margin-top: 4rem;
+        color: #E0E1DD;
         
+        
+        font-family: "Abril Fatface", serif;
+        font-weight: 400;
+        font-style: normal;
 
         
         font-size: 8rem;
-        border: 1px solid blue;
+        border: 1px solid #E0E1DD;
     }
 
 </style>
