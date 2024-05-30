@@ -17,14 +17,22 @@
 
         display: flex;
         justify-content: space-between;
+        align-items: center;
+
+        border-radius: 0.5rem;
+
+        padding-right: 1%;
+        padding-left: 1%;
 
         font-size: 1.1rem;
 
         margin-top: 4rem;
         margin-bottom: 4rem;
 
-        background: linear-gradient(to right, #457b9d, #a8dadc, white);
+        background: #1B263B;
+        color: #E0E1DD;
 
-        border: 2px solid gray;
+        border: 2px solid #E0E1DD;
     }
+    .ins {font-size: 1vw;}
 </style>

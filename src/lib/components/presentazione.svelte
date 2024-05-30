@@ -31,15 +31,15 @@
 
         font-size: 3.8rem;
         
-        color: white;
+        color: #1B263B;
         border: 1px solid green;
     }
     #work
     {
         height: 15%;
         
-        color: #0089d3;
-        background-color: rgb(186, 239, 243);
+        color: #0D1B2A;
+        background-color: #778DA9;
         border-radius: 0.4rem;
         font-family: 'Great Vibes', cursive;
         font-family: 'Roboto', sans-serif;
@@ -52,7 +52,10 @@
     {
         height: 60%;
 
-        color: white;
+        color: #778DA9;
+        background-color: #1B263B;
+        border-radius: 0.4rem;
+
         line-height: 1.5rem;
         font-size: 1.3rem;
 

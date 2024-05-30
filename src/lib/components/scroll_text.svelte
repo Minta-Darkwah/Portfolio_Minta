@@ -31,8 +31,8 @@
         
     /*il problema -webkit-background-clip: funziona ma non lo trova consono*/
 
-        color: hsla(17, 100%, 50%, 0.7);
-        background-image: linear-gradient(to right, yellow, red);
+        color: hsla(221, 62%, 75%, 0.7);
+        background-image: linear-gradient(to right, #778DA9, #E0E1DD);
         -webkit-background-clip: text;
         background-clip: text;
         background-repeat: no-repeat;

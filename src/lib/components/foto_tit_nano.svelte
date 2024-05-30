@@ -90,17 +90,18 @@
         padding-left: 2%;
         padding-right: 2%;
 
-        background-color: #1B263B;
+        background-color: #778DA9;
+        border-radius: 0rem 0.5rem 0rem 0rem;
 
         font-size: clamp(1.5rem, 1.5vw, 2.5rem);
-        border: 1px solid brown;
+        border: 2px solid #E0E1DD;
     }
     .par5
     {
         height: 50%;
         font-size: 1.3rem;
 
-        background-color: #778DA9;
+        background-color: #0D1B2A;
         color: #E0E1DD;
 
         padding-left: 2%;

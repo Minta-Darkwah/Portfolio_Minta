@@ -53,11 +53,12 @@
         display: flex;
         align-items: center;
 
-        background-color: #1B263B;
+        background-color: #778DA9;
+        color: #0D1B2A;
         border-radius: 0rem 0.4rem 0rem 0rem;
 
         padding-left: 2%;
-        border: 2px solid grey;
+        border: 2px solid #E0E1DD;
     }
     .par3
     {

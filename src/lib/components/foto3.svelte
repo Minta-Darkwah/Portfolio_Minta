@@ -44,7 +44,7 @@
 
         border-radius: 0.5rem;
         overflow: hidden;
-        border: 1px solid green;
+        border: 2px solid #E0E1DD;
     }
     /*parte sinistra con 2 foto*/
     .sopra6
@@ -53,14 +53,14 @@
 
         border-radius: 0.5rem;
         overflow: hidden;
-        border: 1px solid green;
+        border: 2px solid #E0E1DD;
     }
     .sotto6
     {   height: 47%;
 
         border-radius: 0.5rem;
         overflow: hidden;
-        border: 1px solid green;
+        border: 2px solid #E0E1DD;
     }
 
 

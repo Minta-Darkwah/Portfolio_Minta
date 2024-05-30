@@ -19,6 +19,8 @@
         padding-top: 1.5rem;
         font-size: 2rem;
 
-        border: 1px solid black;
+        color: #E0E1DD;
+
+        border: 1px solid #E0E1DD;
     }
 </style>

@@ -65,13 +65,15 @@
         display: flex;
         align-items: center;
 
-        background-color: #0D1B2A;
+        border-radius: 0rem 0.5rem 0rem 0rem;
+
+        
         color: #E0E1DD;
 
         padding-left: 2%;
         padding-right: 2%;
 
-        border: 1px solid green;
+        border: 2px solid #E0E1DD;
     }
     #min_tit
     {
@@ -80,7 +82,8 @@
         display: flex;
         align-items: center;
 
-        background-color: #778DA9;
+        background-color: #1B263B;
+        color: #778DA9;
 
         padding-left: 2%;
         border: 1px solid green;

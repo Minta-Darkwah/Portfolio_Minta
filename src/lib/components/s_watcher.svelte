@@ -12,7 +12,7 @@
 
         z-index: 1000;
 
-        background: linear-gradient(to right,white, rgb(0, 255, 21), darkgreen);
+        background: linear-gradient(to right,#1B263B, #415A77, #778DA9);
         border-radius: 2rem;
         border: 1px solid black;
 

@@ -70,10 +70,11 @@
         align-items: center;
 
         background-color: #1B263B;
+        color: #415A77;
 
         padding-left: 2%;
         padding-right: 2%;
-        border: 2px solid gray;
+        border: 2px solid #E0E1DD;
     }
     .par4
     {

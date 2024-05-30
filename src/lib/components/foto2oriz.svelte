@@ -49,7 +49,7 @@
         width: 50%;
         font-size: 1.5rem;
 
-        border-radius: 0.6rem;
+        border-radius: 0.7rem;
         overflow: hidden;
 
         border: 1px solid green;
@@ -59,7 +59,7 @@
         width: 50%;
         font-size: 1.5rem;
 
-        border-radius: 0.6rem;
+        border-radius: 0.7rem;
         overflow: hidden;
         
         border: 1px solid green;
@@ -75,11 +75,14 @@
         height: 10%;
 
         background-color: #0D1B2A;
-        color: #E0E1DD;
+        color: #778DA9;
+
+        display: flex;
+        align-items: center;
 
         padding-left: 2%;
         padding-right: 2%;
-        border: 1px solid green;
+        border: 2px solid #E0E1DD;
     }
     #par_s
     {
@@ -88,6 +91,7 @@
         padding-left: 2%;
         padding-right: 2%;
         text-align: justify;
+        background-color: #778DA9;
 
         font-size: clamp(0.8rem, 1.2vw, 1.23rem);
         border: 1px solid green;
@@ -103,12 +107,15 @@
         height: 10%;
 
         background-color: #0D1B2A;
-        color: #E0E1DD;
+        color: #778DA9;
+
+        display: flex;
+        align-items: center;
 
         padding-left: 2%;
         padding-right: 2%;
 
-        border: 1px solid green;
+        border: 2px solid #E0E1DD;
     }
     #par_d
     {
@@ -117,6 +124,7 @@
         padding-left: 2%;
         padding-right: 2%;
         text-align: justify;
+        background-color: #778DA9;
 
         font-size: clamp(0.8rem, 1.2vw, 1.23rem);
 
