@@ -156,7 +156,7 @@
         transition:
             transform 0.15s cubic-bezier(0.02, 0.01, 0.47, 1),
             opacity 0.15s cubic-bezier(0.02, 0.01, 0.47, 1);
-        z-index: -1;
+        z-index: 0;
         transform: translate(100%, -25%) translate3d(0, 0, 0);
     }
 
