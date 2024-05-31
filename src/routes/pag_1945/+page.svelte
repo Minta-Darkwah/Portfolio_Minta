@@ -143,7 +143,7 @@
 
 
 <style>
-    * {
+    .tutto {
         overflow-x: hidden;
     }
     
