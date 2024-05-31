@@ -137,7 +137,7 @@
         }
     }
 
-    .bot:hover span {
+    .bot:hover a {
         animation: storm 0.7s ease-in-out both;
         animation-delay: 0.06s;
     }
