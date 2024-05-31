@@ -13,8 +13,6 @@
 
     import Spaziatore from "../../lib/components/spaziatore.svelte";
 
-
-
     let foto = [
         "https://media.istockphoto.com/id/1096896278/it/foto/rifugiati-su-un-grande-gommone-in-mezzo-al-mare-che-hanno-bisogno-di-aiuto.jpg?b=1&s=612x612&w=0&k=20&c=5OY4g-MTCZrxSX_wxH2v35LqNyZKmeFHVuJuERycfAE=",
         "https://images.pexels.com/photos/4959222/pexels-photo-4959222.jpeg?auto=compress&cs=tinysrgb&w=600",
@@ -39,7 +37,7 @@
         "",
         "",
         "",
-    ]
+    ];
 
     let tit = [
         "IMMIGRAZIONE",
@@ -68,8 +66,7 @@
         "",
         "",
         "",
-
-    ]
+    ];
 
     let did = [
         "Lascia il Paese per motivi economici, fame, calamità naturali e guerra (non è nelle condizioni di chiedere asilo politico)",
@@ -93,30 +90,31 @@
         "",
         "",
         "",
-    ]
-
+    ];
 </script>
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+    href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap"
+    rel="stylesheet"
+/>
 
 <div id="tutto">
+    <SWatcher />
+    <Barra />
+    <div id="g_tit">1945</div>
 
-    <SWatcher/>
-    <Barra/>
-    <div id="g_tit">
-        1945
-    </div>
+    <FotoTit
+        url={foto[0]} titolo={tit[0]} min_titolo={tit[1]} testo1={["1945- 1960", "1960- 1990", "fine 90'- 2010", "2010- oggi"]}
+    />
 
-    <FotoTit url={foto[0]} titolo={tit[0]} min_titolo={tit[1]} testo1={["1945- 1960", "1960- 1990", "fine 90'- 2010", "2010- oggi"]}/>
+    <Foto2oriz url1={foto[1]} url2={foto[2]} tit1={tit[2]} tit2={tit[3]} testo1={did[0]} testo2={did[1]} />
 
-    <Foto2oriz url1={foto[1]} url2={foto[2]} tit1={tit[2]} tit2={tit[3]} testo1={did[0]} testo2={did[1]}/>
+    <Divisore testo1={tit[4]} testo2={tit[5]} />
 
-    <Divisore testo1={tit[4]} testo2={tit[5]}/>
-
-    <FotoTitMini url={foto[3]} tit1="1960" testo1={did[2]}/>
-    <FotoTitMini url={foto[4]} tit1="1970" testo1={did[3]}/>
+    <FotoTitMini url={foto[3]} tit1="1960" testo1={did[2]} />
+    <FotoTitMini url={foto[4]} tit1="1970" testo1={did[3]} />
 
     <Divisore testo1={tit[6]} />
     <Divisore testo1={tit[7]} />
@@ -127,52 +125,40 @@
     <FotoTitNano url1={foto[10]} tit1={tit[13]} testo1={did[9]} url2={foto[11]} tit2={tit[14]} testo2={did[10]}/>
     <FotoTitNano url1={foto[12]} tit1={tit[15]} testo1={did[11]} url2={foto[13]} tit2={tit[16]} testo2={did[12]}/>
 
-
     <Spaziatore testo='2008-2009 "Pacchetto sicurezza": nuove misure restrittive'/>
 
-    <Foto3 url1={foto[14]} url2={foto[15]} url3={foto[16]}/>
+    <Foto3 url1={foto[14]} url2={foto[15]} url3={foto[16]} />
 
-    <Spaziatore testo='2018 "Decreti sicurezza" di Salvini'/>
+    <Spaziatore testo='2018 "Decreti sicurezza" di Salvini' />
 
-    <Foto3 url1={foto[17]} url2={foto[18]} url3={foto[19]}/>
+    <Foto3 url1={foto[17]} url2={foto[18]} url3={foto[19]} />
 
-    <Pulsante src="./pag_2020" nome="AVANTI"/>
+    <Pulsante src="./pag_2020" nome="AVANTI" />
 </div>
 
-
-
-
 <style>
-    .tutto {
-        overflow-x: hidden;
-    }
-    
-    #tutto
-    {   width: 60%;
+    #tutto {
+        width: 60%;
         margin: auto;
-        background-color: #415A77;
-        
+        background-color: #415a77;
+
         padding: 0rem 4rem 0rem 4rem;
-        
+
         border: 1px solid black;
     }
 
-    #g_tit
-    {
+    #g_tit {
         text-align: center;
         margin-bottom: 3rem;
 
         margin-top: 4rem;
-        color: #E0E1DD;
-        
-        
+        color: #e0e1dd;
+
         font-family: "Abril Fatface", serif;
         font-weight: 400;
         font-style: normal;
 
-        
         font-size: 8rem;
-        border: 1px solid #E0E1DD;
+        border: 1px solid #e0e1dd;
     }
-
 </style>

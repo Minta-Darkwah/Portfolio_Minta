@@ -42,13 +42,11 @@
         height: 2.5rem;
         display: inline;
 
-
-
         position: relative;
         left: 5rem;
         font-size: 2rem;
 
-        border: 1px solid black;
+        border: 1.5px solid black;
     }
     #nome2
     {
@@ -56,13 +54,12 @@
         height: 2.5rem;
         display: inline;
 
-
         position: relative;
         top: 3rem;
         left: -0.7rem;
         font-size: 2rem;
 
-        border: 1px solid black;
+        border: 1.5px solid black;
     }
 
 
