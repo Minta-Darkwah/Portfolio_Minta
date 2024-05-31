@@ -13,7 +13,7 @@
         <a href="./pag_1945"> 1945 </a>
     </div>
     <div class="bot">
-        <a href="./pag_2020"> 2020 </a>
+        <a href="../pag_2020"> 2020 </a>
     </div>
     <div class="bot">
         <a href="./pag_mafia"> MAFIA </a>
