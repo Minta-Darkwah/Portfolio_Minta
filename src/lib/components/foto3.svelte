@@ -27,7 +27,6 @@
         flex-direction: row;
         justify-content: space-between;
 
-        border: 1px solid green;
     }
     .sin6
     {
@@ -36,7 +35,6 @@
         flex-direction: column;
         justify-content: space-between;
 
-        border: 1px solid green;
     }
     .des6
     {

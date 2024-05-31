@@ -27,9 +27,6 @@
 
 
 <style>
-    *, *::before, *::after {
-        box-sizing: border-box;
-    }
 
     #tutto
     {
@@ -43,17 +40,14 @@
         display: flex;
         flex-direction: row;
 
-        border: 1px solid black;
     }
     #sin
     {
         width: 50%;
-        border: 2px solid lightseagreen;
     }
     #des
     {
         width: 50%;
-        border: 2px solid green;
     }
     /*destra(testo) con titolo, mini titolo e paragrafo*/
     #tit
@@ -86,7 +80,6 @@
         color: #778DA9;
 
         padding-left: 2%;
-        border: 1px solid green;
     }
     #text
     {
@@ -96,10 +89,11 @@
         padding-right: 2%;
         text-align: justify;
 
-        font-size: clamp(1.3rem, 1.3rem, 1.5rem);
+        background-color: #778DA9;
+
+        font-size: clamp(1.2rem, 1.28rem, 1.5rem);
         /* font-size: 1.2rem;*/
         
-        border: 1px solid green;
     }
     img
     {

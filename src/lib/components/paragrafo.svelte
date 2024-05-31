@@ -19,6 +19,5 @@
 
         margin-bottom: 6rem;
 
-        border: 1px solid green;
     }
 </style>

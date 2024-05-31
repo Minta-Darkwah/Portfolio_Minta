@@ -42,7 +42,6 @@
 
         margin-bottom: 6rem;
 
-        border: 1px solid green;
     }
     .den4
     {
@@ -53,13 +52,11 @@
         overflow: hidden;
 
         width: 32%;
-        border: 1px solid green;
     }
     /*l'interno dei 3 riquadri*/
     .imm4
     {
         height: 55%;
-        border: 1px solid green;
     }
     .tit4
     {
@@ -87,7 +84,6 @@
         padding-right: 2%;
 
         text-align: justify;
-        border: 1px solid green;
     }
 
     img

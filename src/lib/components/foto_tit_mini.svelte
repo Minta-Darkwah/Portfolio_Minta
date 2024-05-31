@@ -28,12 +28,10 @@
         border-radius: 0.6rem;
         overflow: hidden;
 
-        border: 1px solid green;
     }
     .sin3
     {
         width: 40%;
-        border: 1px solid green;
     }
     .des3
     {
@@ -42,7 +40,6 @@
         display: flex;
         flex-direction: column;
 
-        border: 1px solid green;
     }
     /*parte destra del riquadro*/
     .tit3
@@ -70,7 +67,6 @@
         padding-left: 2%;
         padding-right: 2%;
         text-align: justify;
-        border: 1px solid green;
     }
 
     img

@@ -39,7 +39,6 @@
 
         margin-bottom: 3rem;
 
-        border: 1px solid green;
     }
     .sinistrato
     {
@@ -51,7 +50,6 @@
         border-radius: 0.5rem;
         overflow: hidden;
 
-        border: 1px solid black;
     }
     .destrato
     {
@@ -63,12 +61,10 @@
         border-radius: 0.5rem;
         overflow: hidden;
 
-        border: 1px solid black;
     }
     .sin5
     {
         width: 30%;
-        border: 1px solid orange;
     }
     .des5
     {
@@ -76,7 +72,6 @@
         flex-direction: column;
 
         width: 70%;
-        border: 1px solid brown;
     }
     /*destrato (titolo e paragrafo)*/
     .tit5
@@ -108,7 +103,6 @@
         padding-right: 2%;
 
         text-align: justify;
-        border: 1px solid brown;
     }
 
     img
