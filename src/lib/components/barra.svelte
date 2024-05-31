@@ -5,30 +5,30 @@
 
 <div id="nav_b">
     <div class="bot">
-        <a href="/pag_iniz">
+        <a href="./pag_iniz">
             <span class="material-symbols-outlined">home</span>
         </a>
     </div>
     <div class="bot">
-        <a href="/pag_1945"> 1945 </a>
+        <a href="./pag_1945"> 1945 </a>
     </div>
     <div class="bot">
-        <a href="/pag_2020"> 2020 </a>
+        <a href="./pag_2020"> 2020 </a>
     </div>
     <div class="bot">
-        <a href="/pag_mafia"> MAFIA </a>
+        <a href="./pag_mafia"> MAFIA </a>
     </div>
     <div class="bot">
-        <a href="/pag_borsellino"> Borsellino </a>
+        <a href="./pag_borsellino"> Borsellino </a>
     </div>
     <div class="bot">
-        <a href="/pag_penadimorte"> Pena di morte </a>
+        <a href="./pag_penadimorte"> Pena di morte </a>
     </div>
     <div class="bot">
-        <a href="/pag_femminismo"> Femminismo </a>
+        <a href="./pag_femminismo"> Femminismo </a>
     </div>
     <div class="bot">
-        <a href="/pag_dittature"> Dittature </a>
+        <a href="./pag_dittature"> Dittature </a>
     </div>
 </div>
 
