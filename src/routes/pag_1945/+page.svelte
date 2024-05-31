@@ -144,7 +144,7 @@
 
 <style>
     * {
-        overflow: hidden;
+        overflow-x: hidden;
     }
     
     #tutto
