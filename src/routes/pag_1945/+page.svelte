@@ -143,6 +143,9 @@
 
 
 <style>
+    * {
+        overflow: hidden;
+    }
     
     #tutto
     {   width: 60%;
