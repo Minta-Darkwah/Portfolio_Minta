@@ -42,7 +42,6 @@
         display: flex;
         flex-direction: row;
 
-        border: 1px solid black;
     }
     #par_sin
     {
@@ -52,7 +51,6 @@
         border-radius: 0.7rem;
         overflow: hidden;
 
-        border: 1px solid green;
     }
     #par_des
     {
@@ -62,13 +60,11 @@
         border-radius: 0.7rem;
         overflow: hidden;
         
-        border: 1px solid green;
     }
     /*parte sinistra*/
     #imm_sin
     {
         height: 60%;
-        border: 1px solid green;
     }
     #tit2_s
     {
@@ -94,13 +90,11 @@
         background-color: #778DA9;
 
         font-size: clamp(0.8rem, 1.2vw, 1.23rem);
-        border: 1px solid green;
     }
     /*parte destra*/
     #imm_des
     {
         height: 60%;
-        border: 1px solid green;
     }
     #tit2_d
     {
@@ -128,7 +122,6 @@
 
         font-size: clamp(0.8rem, 1.2vw, 1.23rem);
 
-        border: 1px solid green;
     }
     /*l'immagine sta' ben messa all'interno del div*/
     img
