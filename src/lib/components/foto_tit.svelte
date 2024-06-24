@@ -84,15 +84,12 @@
     #text
     {
         height: 60%;
-
-        padding-left: 2%;
-        padding-right: 2%;
+        padding: 2%;
         text-align: justify;
-
         background-color: #778DA9;
 
-        font-size: clamp(1.2rem, 1.28rem, 1.5rem);
-        /* font-size: 1.2rem;*/
+        
+        font-size: clamp(1.1rem, 1.2rem, 1.5rem);
         
     }
     img

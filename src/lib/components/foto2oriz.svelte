@@ -84,8 +84,7 @@
     {
         height: 30%;
 
-        padding-left: 2%;
-        padding-right: 2%;
+        padding: 2%;
         text-align: justify;
         background-color: #778DA9;
 
@@ -115,8 +114,7 @@
     {
         height: 30%;
 
-        padding-left: 2%;
-        padding-right: 2%;
+        padding: 2%;
         text-align: justify;
         background-color: #778DA9;
 

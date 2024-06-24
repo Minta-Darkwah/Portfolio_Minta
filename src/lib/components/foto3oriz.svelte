@@ -80,8 +80,7 @@
 
         background-color: #E0E1DD;
 
-        padding-left: 2%;
-        padding-right: 2%;
+        padding: 2%;
 
         text-align: justify;
     }

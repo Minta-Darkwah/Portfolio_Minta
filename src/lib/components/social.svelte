@@ -19,8 +19,8 @@
     /*barra social*/
     #soc
     {
-        width: 13rem;
-        height: 2.5rem;
+        width: 15rem;
+        height: 3rem;
 
         padding: 1rem;
 
@@ -33,14 +33,14 @@
         top: 12rem;
         left: 5rem;
 
-        border: 1px solid orange;
+        
     }
     .in_soc
     {
         width: 25%;
 
         border-radius: 0.3rem;
-        border: 1px solid orange;
+        border: 2px solid #778DA9;
     }
     img
     {

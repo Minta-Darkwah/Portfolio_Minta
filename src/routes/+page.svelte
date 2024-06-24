@@ -46,7 +46,9 @@
         left: 5rem;
         font-size: 2rem;
 
-        border: 1.5px solid black;
+        background-color: #E0E1DD;
+        padding-left: 1rem;
+        border-left: 2px solid #1B263B;
     }
     #nome2
     {
@@ -56,10 +58,12 @@
 
         position: relative;
         top: 3rem;
-        left: -0.7rem;
+        left: -1.6rem;
         font-size: 2rem;
 
-        border: 1.5px solid black;
+        background-color: #E0E1DD;
+        padding-left: 1rem;
+        border-left: 2px solid #1B263B;
     }
 
 
