@@ -42,7 +42,6 @@
 
         margin-bottom: 6rem;
 
-        border: 1px solid green;
     }
     .den
     {
@@ -53,14 +52,11 @@
         overflow: hidden;
 
         width: 100%;
-        border: 1px solid green;
     }
     /*l'interno dei 2 riquadri*/
     .imm
     {
         height: 80%;
-
-        border: 1px solid green;
     }
     .tit
     {
