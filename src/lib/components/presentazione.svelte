@@ -2,7 +2,7 @@
     <div id="tit">My name is Minta</div>
     <div id="work">Web developer</div>
     <div id="par">
-        Buongiorno, sono Minta Darkwah della classe 5 informatica dell'Istituto Tecnico e questo è il mio portfolio, per la materia di educazione civica, elaborato con tutti gli argomenti visti e presentati durante l'anno. In ogni anno sono stati trattati degli argomenti importanti che riguardano alcuni avvenimenti del passato ma anche qualcuno dei giorni nostri. Per vedere gli argomenti trattati ed il lavoro svolto cliccare sul pulsante qui sotto. E spero che queste informazioni ti possano suscitare interesse.
+        Buongiorno, sono Oheneba Minta Darkwah della classe 5 informatica dell'Istituto Tecnico all'Agnelli e questo è il mio portfolio, per la materia di educazione civica, elaborato con tutti gli argomenti visti e presentati durante l'anno. In ogni anno sono stati trattati degli argomenti importanti che riguardano alcuni avvenimenti del passato ma anche qualcuno dei giorni nostri. Per vedere gli argomenti trattati ed il lavoro svolto cliccare sul pulsante qui sotto. E spero che queste informazioni ti possano suscitare interesse.
 
     </div>
 </div>
